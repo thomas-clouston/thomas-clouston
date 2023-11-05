@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python</b>
+- <b>Algo trading</b>
   - [Kucoin Trading Bot](https://github.com/thomas-clouston/Kucoin-Trading-Bot)
+ 
+- <b>Web apps</b>
+  - [Form a Story](https://github.com/thomas-clouston/Form-a-Story)
 
 <h2> 🤳 Connect with me:</h2>
 
