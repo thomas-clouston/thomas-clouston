@@ -7,6 +7,9 @@
  
 - <b>Web apps</b>
   - [Form a Story](https://github.com/thomas-clouston/Form-a-Story)
+ 
+- <b>Web apps</b>
+  - [Snake Game](https://github.com/thomas-clouston/Snake-Game)
 
 <h2> 🤳 Connect with me:</h2>
 
