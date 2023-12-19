@@ -1,9 +1,6 @@
 <h1>Thomas Clouston</h1>
 
 <h2>👨‍💻 Projects:</h2>
-
-- <b>Algo trading</b>
-  - [Kucoin Trading Bot](https://github.com/thomas-clouston/Kucoin-Trading-Bot)
  
 - <b>Web apps</b>
   - [Form a Story](https://github.com/thomas-clouston/Form-a-Story)
