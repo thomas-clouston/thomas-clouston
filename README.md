@@ -5,8 +5,14 @@
 - <b>Web apps</b>
   - [Form a Story](https://github.com/thomas-clouston/Form-a-Story)
  
-- <b>Web apps</b>
+- <b>Games</b>
   - [Snake Game](https://github.com/thomas-clouston/Snake-Game)
+
+- <b>Facial Recognition</b>
+  - [Facial Recognition](https://github.com/thomas-clouston/Face-Recognition)
+
+- <b>Arbitrage software</b>
+  - [Crypto Arbitrage](https://github.com/thomas-clouston/Crypto-Arbitrage)
 
 <h2> 🤳 Connect with me:</h2>
 
