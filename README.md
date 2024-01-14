@@ -13,7 +13,6 @@
 
 - <b>Arbitrage software</b>
   - [Crypto Arbitrage](https://github.com/thomas-clouston/Crypto-Arbitrage)
-  - [Sports Betting Arbitrage](https://github.com/thomas-clouston/Sports-Betting-Arbitrage)
 
 <h2> 🤳 Connect with me:</h2>
 
