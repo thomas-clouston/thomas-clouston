@@ -15,6 +15,9 @@
   - [Crypto Arbitrage](https://github.com/thomas-clouston/Crypto-Arbitrage)
   - [Sports Betting Arbitrage](https://github.com/thomas-clouston/Sports-Betting-Arbitrage)
 
+- <b>Algorithmic Trading Software</b>
+  - [Kucoin Trading Bot](https://github.com/thomas-clouston/Kucoin-Trading-Bot)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
