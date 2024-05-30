@@ -16,7 +16,7 @@
   - [Sports Betting Arbitrage](https://github.com/thomas-clouston/Sports-Betting-Arbitrage)
 
 - <b>Algorithmic Trading Software</b>
-  - [Kucoin Trading Bot](https://github.com/thomas-clouston/Kucoin-Trading-Bot)
+  - [Trading Bot](https://github.com/thomas-clouston/Bounce-Range-Trading-Bot)
 
 <h2> 🤳 Connect with me:</h2>
 
