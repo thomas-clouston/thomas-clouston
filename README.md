@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
  
-- <b>Web apps</b>
-  - [Form a Story](https://github.com/thomas-clouston/Form-a-Story)
- 
 - <b>Games</b>
   - [Snake Game](https://github.com/thomas-clouston/Snake-Game)
 
